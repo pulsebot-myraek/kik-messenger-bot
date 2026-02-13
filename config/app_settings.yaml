@@ -1,0 +1,4 @@
+app:
+  name: kik-messenger-chat-automation
+  bot_username: your_kik_bot_username
+  api_key: CHANGE_ME
